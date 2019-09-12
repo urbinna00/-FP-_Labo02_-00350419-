@@ -1,0 +1,32 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+'Introduzca los valores 1,-2 y -15 para a,b y c.'
+5
+1
+5
+a,b,c
+6
+2
+2
+x1
+26
+(-b+sqrt(b^2-4*a*c))/(2*a)
+2
+x2
+26
+(-b-sqrt(b^2-4*a*c))/(2*a)
+4
+1
+47
+'x1 es igual a  ',x1,'
+
+
+x2 es igual a  ',x2,''
+1
